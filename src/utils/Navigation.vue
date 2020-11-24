@@ -32,7 +32,7 @@
           <span class="navbar-text actions">
             <router-link class="login" to="/design">Designs</router-link>
 
-            <router-link class="login" to="/blog">Blog</router-link>
+            <a class="login" href="https://medium.com/@solomonmarvel97">Blog</a>
 
             <router-link class="login" to="/projects">Projects</router-link>
 

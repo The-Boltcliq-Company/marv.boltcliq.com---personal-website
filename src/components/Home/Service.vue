@@ -11,7 +11,7 @@
         <div class="card-bg" :style="[cardBgTransform, cardBgImage]"></div>
         <img src="../../assets/img/designer.png" />
         <div class="card-info">
-          <slot name="header">Designer</slot>
+          <slot name="header">UI/UX Designer</slot>
         </div>
       </div>
     </div>
@@ -26,7 +26,7 @@
         <div class="card-bg" :style="[cardBgTransform, cardBgImage]"></div>
         <img src="../../assets/img/programmer.png" />
         <div class="card-info">
-          <slot name="header">Software Engineer</slot>
+          <slot name="header">Solutions/Systems Engineer</slot>
         </div>
       </div>
     </div>
@@ -41,7 +41,7 @@
         <div class="card-bg" :style="[cardBgTransform, cardBgImage]"></div>
         <img src="../../assets/img/enterpreneur.png" />
         <div class="card-info">
-          <slot name="header">Enterpreneur</slot>
+          <slot name="header">Serial Enterpreneur</slot>
         </div>
       </div>
     </div>

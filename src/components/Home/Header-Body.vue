@@ -9,7 +9,7 @@
           <h2
             class="font-weight-light mb-0 text-center"
             style="font-size: 24px; filter: blur(0px);color: rgb(255,255,255);"
-          >Systems Engineer 👨‍🔬 / Technical Researcher 🧑‍💻 / Computer Science Teacher 💛</h2>
+          >Solutions Engineer 👨‍🔬 / Cloud Engineer 🧑‍💻 / Computer Science Teacher 💛</h2>
           <hr style="border-color: white" />
           <br />
 
@@ -25,8 +25,8 @@
               <b>Computer Science Grad.</b>
               <br />
               <b>[ On going research / projects ]</b>
-              <hr />Algorithms in Nature (Natural Science) -- Computer Machine learning and the biology of man
-              <br />Computational physics – A.I in the study and implementation of numerical algorithms to solve problems in physics for which a quantitative theory already exists
+              <hr />Algorithms in Nature (Natural Science) -- Machine Learning And the Biology of man
+              <br />Computational Physics – Implementation Numerical Algorithms to solve natural science problems in biophysics for which a quantitative theory already exists
             </div>
           </div>
 
@@ -37,9 +37,9 @@
             <br />
             <h3>Specialties:</h3>
             <p>
-              Systems Design/Architecture, Machine Learning, Security,
-              microservice architecting, UI/UX design,
-              web/mobile apps development, multi-tier servers implementation, devops
+              Systems Design/Architecture, Cloud Computing (Auzre, Digital Ocean, Google Cloud), Machine Learning, Security,
+              microservice architecting, UI/UX design, Qt Desktop Programming,
+              Web/Mobile Applications Development, Multi-tier Servers Implementation, Devops
             </p>
           </h2>
 
@@ -47,15 +47,27 @@
           <br />
 
           <h2 class="font-weight-light mb-0" style="font-size: 16px;">
-            Current Remote Systems Engineer at : [
+            Full time Solutions Engineer at : [
             <strong>
               <a href="https://boltcliq.com">The Boltcliq Company</a>
-            </strong>,
+            </strong>
+          </h2>
+          <h2 class="font-weight-light mb-0" style="font-size: 16px;">
+            Technical Partner/Skill Investor at : [
             <strong>
-              <a href="https://tosoptech.com">Tosop Technologies</a>
-            </strong>,
+              <a href="https://tosoptech.com">Tosop Technologies, </a>
+            </strong>
             <strong>
-              <a href="https://rehdanet.com">Rehda Technologies</a>
+              <a href="https://rehdanet.com">Rehdanet Technologies, </a>
+            </strong>
+            <strong>
+              <a href="https://mazaexpress.com">Maza-express, </a>
+            </strong>
+            <strong>
+              <a href="https://netwocs.com">Netwocs Technologies, </a>
+            </strong>
+            <strong>
+              <a href="https://rehdanet.com">Glossey Cleaning Company</a>
             </strong>
             ]
           </h2>

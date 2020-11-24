@@ -3,7 +3,7 @@
         <footer class="footer-distributed">
 
             <div class="footer-left">
-                    <p class="footer-company-name">Marvelous Solomon &copy; 2020</p>
+                    <p class="footer-company-name">Akporowho Marvelous &copy; {{date}}</p>
             </div>
 
         </footer>
@@ -13,7 +13,16 @@
 <script>
     export default {
         name: 'NavigationBar',
-        components: {}
+        components: {},
+        data() {
+            return {
+                date: ''
+            }
+        },
+        created() {
+            var d = new Date();
+            this.date = d.getFullYear();
+        }
     }
 </script>
 
