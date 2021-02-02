@@ -4,7 +4,6 @@
         <Navigation/>
         <HeaderImage/>
         <HeaderBody/>
-        <Service/>
         <Footer/>
     </div>
 </template>
@@ -14,8 +13,7 @@
         name: 'Home',
         components: {
             HeaderImage: () => import('../components/Home/Header-Image.vue'),
-            HeaderBody: () => import('../components/Home/Header-Body.vue'),
-            Service: () => import('@/components/Home/Service.vue'),
+            HeaderBody: () => import('../components/Home/Header-Body.vue')
         }
     }
 </script>

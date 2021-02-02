@@ -7,7 +7,7 @@
           <img
             class="rounded-circle d-block mx-auto mb-5"
             src="@/assets/img/marvelous.jpg"
-            style="height: 150px; width: 150px; margin-top: 20px"
+            style="height: 250px; width: 250px; margin-top: 20px" 
           />
           </div>
           <h4 style="margin-top: 20px">Akporowho Marvelous</h4>

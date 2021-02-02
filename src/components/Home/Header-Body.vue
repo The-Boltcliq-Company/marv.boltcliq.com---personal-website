@@ -9,13 +9,14 @@
           <h2
             class="font-weight-light mb-0 text-center"
             style="font-size: 24px; filter: blur(0px);color: rgb(255,255,255);"
-          >Solutions Engineer 👨‍🔬 / Cloud Engineer 🧑‍💻 / Computer Science Teacher 💛</h2>
+          >Technical Leader 🚀 | Solutions Engineer 👨‍🔬 | Cloud Engineer 🧑‍💻 | Designer 👨🏾‍🎨 | Foodie 🍔🍗🍻</h2>
           <hr style="border-color: white" />
           <br />
 
           <h3 class="text-center">
-            Over a decade of computer programming
-            <br />Six (6) years of professional software development
+            11 Years of Software Engineering Experience
+            <hr/>
+            *** Building with amazing teams ***
           </h3>
 
           <div
@@ -37,39 +38,33 @@
             <br />
             <h3>Specialties:</h3>
             <p>
-              Systems Design/Architecture, Cloud Computing (Auzre, Digital Ocean, Google Cloud), Machine Learning, Security,
-              microservice architecting, UI/UX design, Qt Desktop Programming,
-              Web/Mobile Applications Development, Multi-tier Servers Implementation, Devops
+              Systems Design/Architecture, Cloud Computing (Auzre, Digital Ocean, Google Cloud, AWS), Machine Learning, Security,
+              microservice architecting, UI/UX design [Adobe XD, Figma], Qt, Bash,
+              Web/Mobile Apps Development/Deployment, Multi-tier Servers Implementation, Devops, Unix, Windows
             </p>
           </h2>
 
-          <br />
+          <hr>
           <br />
 
           <h2 class="font-weight-light mb-0" style="font-size: 16px;">
-            Full time Solutions Engineer at : [
-            <strong>
-              <a href="https://boltcliq.com">The Boltcliq Company</a>
-            </strong>
+            <div>Co-founder @ <a href="https://boltcliq.com">The Boltcliq Company</a></div>
+            <div>Founder @ <a href="https://welearng.org">Welearnt Academy</a></div>
           </h2>
           <h2 class="font-weight-light mb-0" style="font-size: 16px;">
-            Technical Partner/Skill Investor at : [
+            Technical Partner at ::
             <strong>
               <a href="https://tosoptech.com">Tosop Technologies, </a>
-            </strong>
-            <strong>
-              <a href="https://rehdanet.com">Rehdanet Technologies, </a>
             </strong>
             <strong>
               <a href="https://mazaexpress.com">Maza-express, </a>
             </strong>
             <strong>
-              <a href="https://netwocs.com">Netwocs Technologies, </a>
+              <a href="https://netwocs.com">Netwocs Messaging Technologies, </a>
             </strong>
             <strong>
-              <a href="https://rehdanet.com">Glossey Cleaning Company</a>
+              <a href="https://glossey.io">Glossey</a>
             </strong>
-            ]
           </h2>
         </div>
       </div>
