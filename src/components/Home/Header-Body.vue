@@ -23,7 +23,7 @@
             style="background-color: #e2ffb7; color: black; border-radius: 10px; margin-top: 10px"
           >
             <div style="padding: 25px">
-              <b>Computer Science Grad.</b>
+              <b>Computer Science Grad</b>
               <br />
               <b>[ On going research / projects ]</b>
               <hr />Algorithms in Nature (Natural Science) -- Machine Learning And the Biology of man
