@@ -51,7 +51,7 @@
             <div>Co-founder @ <a href="https://boltcliq.com">The Boltcliq Company</a></div>
             <div>Founder @ <a href="https://welearng.org">Welearnt Academy</a></div>
           </h2>
-          <h2 class="font-weight-medium mb-0" style="font-size: 16px;">
+      <h2 class="font-weight-medium mb-0" style="font-size: 16px;">
             Technical Partner at ::
             <strong>
               <a href="https://tosoptech.com">Tosop Technologies, </a>
