@@ -7,7 +7,7 @@
         <div class="col">
           <hr style="border-color: white" />
           <h2
-            class="font-weight-light mb-0 text-center"
+            class=" mb-0 text-center"
             style="font-size: 24px; filter: blur(0px);color: rgb(255,255,255);"
           >Technical Leader 🚀 | Solutions Engineer 👨‍🔬 | Cloud Engineer 🧑‍💻 | Designer 👨🏾‍🎨 | Foodie 🍔🍗🍻</h2>
           <hr style="border-color: white" />
@@ -34,7 +34,7 @@
           <br />
         </div>
         <div class="col">
-          <h2 class="font-weight-light mb-0" style="font-size: 15px;">
+          <h2 class="font-weight-medium mb-0" style="font-size: 15px;">
             <br />
             <h3>Specialties:</h3>
             <p>
@@ -47,11 +47,11 @@
           <hr>
           <br />
 
-          <h2 class="font-weight-light mb-0" style="font-size: 16px;">
+          <h2 class="font-weight-medium mb-0" style="font-size: 16px;">
             <div>Co-founder @ <a href="https://boltcliq.com">The Boltcliq Company</a></div>
             <div>Founder @ <a href="https://welearng.org">Welearnt Academy</a></div>
           </h2>
-          <h2 class="font-weight-light mb-0" style="font-size: 16px;">
+          <h2 class="font-weight-medium mb-0" style="font-size: 16px;">
             Technical Partner at ::
             <strong>
               <a href="https://tosoptech.com">Tosop Technologies, </a>
